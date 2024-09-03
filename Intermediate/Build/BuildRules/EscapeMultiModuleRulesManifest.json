@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Jeux\\Programmation\\EscapeMulti-MathisDenamur\\Source\\EscapeMulti\\EscapeMulti.Build.cs",
+		"C:\\Jeux\\Programmation\\EscapeMulti-MathisDenamur\\Source\\EscapeMulti.Target.cs",
+		"C:\\Jeux\\Programmation\\EscapeMulti-MathisDenamur\\Source\\EscapeMultiEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
