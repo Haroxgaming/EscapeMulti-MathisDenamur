@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EscapeMulti.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeMulti.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscapeMultiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EscapeMulti">
+      <UniqueIdentifier>{93A66238-842B-3ED1-8E2B-9DD8A86B3E77}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeMulti\EscapeMulti.Build.cs">
+      <Filter>Source\EscapeMulti</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EscapeMulti\EscapeMulti.cpp">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeMulti\EscapeMulti.h">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeMulti\EscapeMultiCharacter.cpp">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeMulti\EscapeMultiCharacter.h">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeMulti\EscapeMultiGameMode.cpp">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeMulti\EscapeMultiGameMode.h">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeMulti\EscapeMultiPlayerController.cpp">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeMulti\EscapeMultiPlayerController.h">
+      <Filter>Source\EscapeMulti</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

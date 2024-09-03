@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeMulti",
+			"Path": "..\\Source\\EscapeMulti.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeMultiEditor",
+			"Path": "..\\Source\\EscapeMultiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
